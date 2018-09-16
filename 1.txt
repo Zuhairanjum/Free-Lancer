@@ -1,0 +1,29 @@
+First HTML Assignment
+
+This assignment should be sent to me as .html file. You can attach the file with the assignment in the Google Drive.
+
+Steps:
+
+To do your assignment, you should first open Favourite Editor. Do a very simple web page using the very basic HTML code so you can test something simple.
+Save it with an .html extension.
+Look at the results of your code. If it worked the way you want it to you are on your way.
+
+The assignment that you attach with the assignment while submitting should have  the following assignments.
+
+
+H1 for the Header
+Another header in range H2 through H6
+BR for break
+P for a paragraph
+Bold
+alignment
+Unordered list
+List item
+Ordered List
+Table
+Table Data
+Table Row
+
+If you have any problem in understanding the assignment then ask me in the class or in classroom.
+
+Best of Luck!
